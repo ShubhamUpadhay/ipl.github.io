@@ -100,7 +100,7 @@ main{
     padding-top: 3%;
 }
 #inputTaker {
-    background-color: rgba(173, 216, 230, 0.884);
+    background-color: rgba(0, 154, 206, 0.884);
     box-shadow: 0 0 5px black;
     position: absolute;
     text-align: start;
@@ -140,8 +140,8 @@ font-size: 18px;
         border: 0;
         margin-top: 3px;
         width: 50%;
-        color: rgb(26, 73, 92);
-        background-color: skyblue;
+        color: rgb(13, 35, 44);
+        background-color: rgb(13, 172, 235);
 }
 
 
